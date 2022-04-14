@@ -1,0 +1,465 @@
+Unit Art,Unit Name,Plus Ultra,Action Skill 1,Action Skill 2,Auto Skill 1,Auto Skill 2,Tags,Stats,Buffs/Debuffs
+,"Faith (MND)
+[At School] 
+Izuku Midoriya","Delaware Smash (Plus Ultra)
+Inflict 450% damage to one enemy; self -10% SPD for 3 turns; inflict self damage","Power of Concentration 
+(CD: 4 turns)
+Fill PU Gauge by 40%","Detroit Smash 
+(CD: 3 turns)
+Inflict 250% damage to one enemy, self -10% ATK for 3 turns; inflict self damage","Sense of Justice
+When you deal Critical damage, +30% Skill Damage for 3 turns","Successor
+While HP is Below 50%, +40% Skill Damage","U.A. Student
+1-A Student
+Hero
+Male","HP - 19,788
+ATK - 4,227
+SPD - 239
+Crit Rate - 10",Plus Ultra Gauge Fill: Fills character Plus Ultra Gauge
+,"Knowledge (INT)
+[Training] 
+Izuku Midoriya","Detroit Smash (Plus Ultra)
+Inflict 450% damage to one enemy; self -10% SPD for 3 turns; inflict self damage","Delaware Smash 
+(CD: 4 turns)
+Inflict 250% damage to one enemy; inflict self damage","Interception
+(CD: 4 turns)
+All allies +25% ATK for 3 turns","Sharp Analysis
+While HP is Below 50%, +30% ATK","Action Nerd
+While HP is Above 50%, +25% SPD","U.A. Student
+1-A Student
+Hero
+Male","HP - 19,211
+ATK - 4,405
+SPD - 229
+Crit Rate - 10",Plus Ultra Gauge Fill: Fills character Plus Ultra Gauge
+,"Power (STR)
+[At School]
+Katsuki Bakugo 
+","A.P Shot (Plus Ultra)
+Inflict 400% damage to one enemy; low chance to Burn enemy for 3 turns","Stun Grenade
+(CD: 5 turns)
+Inflict 175% damage to all enemy; low chance to Blind enemies for 2 turns","Combat Instincts
+(CD: 4 turns)
++25% Skill Damage for 3 turns; +30% Crit Rate for 3 turns","Rising Intention
+While your HP is Below 50%, +25% ATK","Natural Intuition
+At the start of each WAVE, enemy -20% Crit Rate for 3 turns
+","U.A. Student
+1-A Student
+Hero
+Male","HP - 20,445
+ATK - 4,086
+SPD - 245
+Crit Rate - 10","Burn: Deals damage at the end of turn
+
+Blind: Chance for attack to miss"
+,"Destruction (DST)
+[Training] 
+Katsuki Bakugo ","Explosive Speed Turbo (Plus Ultra)
+Inflict 400% damage to one enemy; +30% ATK for 3 turns","A.P Shot 
+(CD: 3 turns)
+Inflict 200% damage to one enemy; low chance to Burn enemy for 3 turns","Arrogance
+(CD: 4 turns)
++40% ATK for 3 turns; +40% SPD for 3 turns","Natural Prodigy
+While HP is Above 50%, +25% SPD","Trained Brain
+At the start of each WAVE, enemy -20% ATK for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 18,676
+ATK - 4,484
+SPD - 235
+Crit Rate - 10",Burn: Deals damage at the end of turn
+,"Knowledge (INT) 
+[At School] 
+Ochaco Uraraka","Home Run Comet (Plus Ultra)
+Inflict 400% damage to one enemy; +15% Crit Rate for 3 turns","Zero Gravity Kick
+(CD: 5 turns)
+Inflict 200% damage to one enemy; gain Evasion for 1 hit","Home Run Comet
+(CD: 3 turns)
+Inflict 200% damage to one enemy; enemy -20% Crit Rate for 3 turns
+","Steadfast
+While HP is Above 50%, +20% Crit Rate","Hidden Heart
+At the start of each WAVE, Auto Heal 20% HP for 3 turns","U.A. Student
+1-A Student
+Hero
+Female","HP - 19,814
+ATK - 4,142
+SPD - 239
+Crit Rate - 10","Evasion: Damage taken is reduced to 0
+
+Auto Heal: Recover HP at the start of each turn"
+,"Faith (MND) 
+[Training] 
+Ochaco Uraraka","Zero Gravity Kick (Plus Ultra)
+Inflict 400% damage to one enemy; enemy -25% ATK for 3 turns
+","Get Pumped up!
+(CD: 5 turns)
+Recover 25% HP for all allies","Home Run Comet
+(CD: 3 turns)
+Inflict 200% damage to one enemy; enemy -10% ATK for 3 turns","Bubbly Girl
+At the start of each WAVE, enemy -20% SPD for 3 turns","Paw Pad
+At the start of each WAVE, +20% Crit Rate for 3 turns
+","U.A. Student
+1-A Student
+Hero
+Female","HP - 18,586
+ATK - 4,434
+SPD - 234
+Crit Rate - 10",N/A
+,"Knowledge (INT)
+[At School] 
+Tenya Iida","Recipro Burst (Plus Ultra)
+Inflict 400% damage to one enemy; increase Skill Damage according to your SPD","Somersault Kick
+(CD: 3 turns)
+Inflict 200% damage to one enemy; +40% SPD for 3 turns","Gear Change
+(CD: 5 turns)
++40% ATK; Fill PU Gauge by 15%","Overserious
+If there is a U.A Teacher unit on the team; +30% SPD","Model Student
+When you deal 2 Normal Attacks, +15% ATK","U.A. Student
+1-A Student
+Hero
+Male","HP - 20,417
+ATK - 4,032
+SPD - 254
+Crit Rate - 10",N/A
+,"Skill (ABL)
+[Training] 
+Tenya Iida","Somersault Kick (Plus Ultra)
+Inflict 400% damage to one enemy; +30% SPD for 3 turns","Recipro Burst
+(CD: 4 turns)
+Inflict 200% damage to one enemy; gain Double Tap for 3 turns"," Everyone at Full Speed
+All allies +25% SPD for 3 turns","EVERYTHING IS FINE!
+All 1-A Student allies (excluding self); +20% SPD for 3 turns","Swift Feet
+At the start of each WAVE, +20% SPD for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 17,945
+ATK - 4,553
+SPD - 248
+Crit Rate - 10",Double Tap: Perform a second normal attack
+,"Destruction (DST)
+[At School] 
+Shoto Todoroki","Ice Block (Plus Ultra)
+Inflict 350% damage to all enemies; low chance of Freezing enemy for one turn; enemy -25% Skill Damage for 3 turns","Fire Dance
+(CD: 5 turns)
+Inflicts 175% damage to all enemies; low chance to Burn enemy for 3 turns","Surging Heat
+(CD: 4 turns)
++25% Skill Damage; fill PU Gauge by 15%","Calm Passion
+While HP is Below 50%, +40% Skill Damage","Hand Crusher
+At the start of each WAVE, enemy -20% ATK for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 20,361
+ATK - 4,097
+SPD - 245
+Crit Rate - 10","Burn: Deals damage at the end of turn
+
+Freeze: Prevents unit from attacking (unless attacked), attack is guaranteed to be a Critical hit"
+,"Power (STR)
+[Training] 
+Shoto Todoroki","Fire Dance (Plus Ultra)
+Inflict 400% damage to one enemy; low chance to Burn enemy for 3 turns ","Ice Block
+(CD: 5 turns)
+Inflict 175% damage to all enemies; low chance of Freezing enemy for 1 turn","Instant Freeze
+(CD: 4 turns)
++40% ATK for 3 turns; 20% Damage Cut for 2 turns","By Recommendation
+At the start of each WAVE, +20% ATK for 3 turns","Burning Eye
+While HP is Below 50%, +30% ATK","U.A. Student
+1-A Student
+Hero
+Male","HP - 18,520
+ATK - 4,518
+SPD - 235
+Crit Rate - 10","Burn: Deals damage at the end of turn
+
+Freeze: Prevents unit from attacking (unless attacked), attack is guaranteed to be a Critical hit
+
+Damage Cut: Reduce damage taken"
+,"Knowledge (INT)
+[At School] 
+Tsuyu Asui","Froppy Swing (Plus Ultra)
+Inflict 400% damage to one enemy; enemy -15% Crit Rate for 3 turns","Sticky Spray
+(CD: 4 turns)
+Enemy -20% SPD for 3 turns; enemy -30% Crit Rate for 3 turns","Jumping Power
+(CD: 5 turns)
++30% SPD for 3 turns; gain Evasion for 1 hit","Keen Insight
+At the start of each WAVE, enemy -20% Crit Rate for 3 turns","Star Student
+At the start of each WAVE, +20% Crit Rate for 3 turns","U.A. Student
+1-A Student
+Hero
+Female","HP - 20,417
+ATK - 4,032
+SPD - 245
+Crit Rate - 15",Evasion: Damage taken is reduced to 0
+,"Skill (ABL)
+[Training] 
+Tsuyu Asui","Froppy Kick (Plus Ultra)
+Inflict 400% damage to one enemy; +15% Crit Rate for 3 turns","Froppy Swing
+(CD: 3 turns)
+Inflict 200% damage to one enemy; enemy -10% ATK for 3 turns","Poker Face
+(CD: 3 turns)
++25% Crit Rate for 3 turns; Gain Hide for 3 turns","Call Me Tsu
+At the start of the battle; fill PU Gauge by 20%","Ribbit Ribbit
+While Hide is active on character; +25% ATK","U.A. Student
+1-A Student
+Hero
+Female","HP - 18,542
+ATK - 4,443
+SPD - 235
+Crit Rate - 15",Hide: Cannot be targeted
+,"Destruction (DST)
+[At School] 
+Minoru Mineta","Grape Rush (Plus Ultra)
+Inflict 400% damage to one enemy; enemy -25% ATK for 3 turns","Cunning Wisdom
+(CD: 3 turns)
+Enemy -20% ATK for 3 turns; enemy -30% Crit Rate for 3 turns","To Get More Girls
+(CD: 4 turns)
+Fill PU Gauge by 40%","Escape
+While HP is Below 50%, +30% SPD","Super Sticky Balls
+While HP is Above 50%, +20% Crit Rate","U.A. Student
+1-A Student
+Hero
+Male","HP - 19,364
+ATK - 4,088
+SPD - 239
+Crit Rate - 20",N/A
+,"Skill (ABL)
+[Training] 
+Minoru Mineta","Grape Whip (Plus Ultra)
+Inflict 400% damage to one enemy; enemy -25% SPD for 3 turns","Grape Rush
+(CD: 3 turns)
+Inflict 200% damage to one enemy; enemy -10% SPD for 3 turns","Emergency Evacuation
+(CD: 3 turns)
++30% SPD for 3 turns; Gain Hide for 3 turns","Delusional Might
+If there is a Female unit on the team; +25% ATK","Worries Relesed
+While HP is Below 50%, fill PU Gauge by 30% (Once only)","U.A. Student
+1-A Student
+Hero
+Male","HP - 18,775
+ATK - 4,267
+SPD - 229
+Crit Rate - 20",Hide: Cannot be targeted
+,"Power (STR)
+[At School] 
+Eijiro Kirishima","Manly Knuckle (Plus Ultra)
+Inflict 400% damage to one enemy; +40% Damage Cut For 2 turns","Heroic Blow
+(CD: 4 turns)
+Inflict 200% damage to one enemy; enemy -10% ATK for 3 turns","Fighting Spirit
+(CD: 4 turns)
+Fill PU gauge by 40% ","Hot-Blooded
+When taking Crit damage; +5% ATK (up to 25%)","
+Tougher with Every Hit
+When you've taken 5 attacks, +20% Damage Cut for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 18,520
+ATK - 4,471
+SPD - 234
+Crit Rate - 10",Damage Cut: Reduce damage taken
+,"Faith (MND) 
+[Training] 
+Eijiro Kirishima","Heroic Blow (Plus Ultra)
+Inflict 400% damage to one enemy; gain Barrier for 1 hit","Manly Knuckle
+(CD: 3 turns)
+Inflict 200% damage to one enemy; +30% ATK for 3 turns","Look at Me!
+(CD 4: turns)
+Taunt enemies for 2 turns; Auto Heal 20% HP for 3 turns","A Man's Man
+At the start of each WAVE, +30% Damage Cut for 2 turns","The Hardening man
+While Taunt is active on character; +25% ATK ","U.A. Student
+1-A Student
+Hero
+Male","HP - 19,788
+ATK - 4,166
+SPD - 239
+Crit Rate - 10","Auto Heal: Recover HP at the start of each turn
+
+Barrier: Damage taken is reduced to 0
+
+Damage Cut: Reduce damage taken
+
+Taunt: Forces all enemies to target you"
+,"Faith (MND)
+[At School] 
+Momo Yaoyorozu","Matryoshka (Plus Ultra)
+Inflict 400% damage to one enemy; low chance to Blind enemy for 2 turns","Big Boom
+(CD: 5 turns)
+Inflict 200% to one enemy; fill PU Gauge by 10%","In Command
+(CD: 6 turns)
+All allies Auto Heal 20% HP for 3 turns","Accurate Analysis
+At the start of each WAVE, enemy -20% ATK for 3 turns","Pen and Sword
+When Auto Heal is active on character; +25% ATK","U.A. Student
+1-A Student
+Hero
+Female","HP - 19,736
+ATK - 4,154
+SPD - 239
+Crit Rate - 10","Auto Heal: Recover HP at the start of each turn
+
+Blind: Chance for attack to miss"
+,"Knowledge (INT)
+[Training] 
+Momo Yaoyorozu","Big Boom (Plus Ultra)
+Inflict 400% damage to one enemy; fill PU Gauge for all allies by 10%","Matryoshka
+(CD: 4 turns)
+Inflict 175% damage to all enemies; when used in a +2 CHAIN and it succeeds; enemies -10% SPD  ","Never Stop Learning
+(CD: 3 turns)
+Fill PU Gauge for one ally by 20%","Ambitious Aspiration
+At the start of each WAVE, +40% Skill Damage for 3 turns","Virtuosa
+While HP is Below 50%, +40% Skill Damage for 3 turns","U.A. Student
+1-A Student
+Hero
+Female","HP - 19,211
+ATK - 4,320
+SPD - 229
+Crit Rate - 10",N/A
+,"Skill (ABL)
+[At School] 
+Fumikage Tokoyami","Shadow Dance (Plus Ultra)
+Inflict 400% damage to one enemy; +30% Crit Rate for 3 turns","Claws from the Abyss
+(CD: 4 turns)
+Inflict 200% damage to one enemy; gain Double Tap for 3 turns","Perpetual Darkness
+(CD: 4 turns)
+Enemy -20% SPD for 3 turns; enemy -30% Crit Rate for 3 turns","Black Lament
+At start of each WAVE, enemy -10% Crit Rate for 3 turns","Force Among the Shadows
+While Double Tap is active on character; +30% ATK","U.A. Student
+1-A Student
+Hero
+Male","HP - 20,361
+ATK - 4,059
+SPD - 247
+Crit Rate - 10",Double Tap: Perform a second normal attack
+,"Power (STR)
+[Training] 
+Fumikage Tokoyami","Claws from the Abyss (Plus Ultra)
+Inflict 400% damage to one enemy; low chance to make the enemy Bleed for 3 turns","Shadow Dance
+(CD: 3 turns)
+Inflict 200% damage to one enemy; +30% ATK","Jet Black Friend
+(CD: 5 turns)
++30% SPD for 3 turns; gain Double Tap for 3 turns","Moonlight
+At start of each WAVE, +20% Crit Rate for 3 turns","Morning Star
+At the start of the battle; fill PU Gauge by 20%","U.A. Student
+1-A Student
+Hero
+Male","HP - 18,520
+ATK - 4,471
+SPD - 236
+Crit Rate - 10","Bleed: Inflicts certain amount of damage when afflicted
+
+
+Double Tap: Perform a second normal attack"
+,"Skill (ABL)
+[At School] 
+Denki Kaminari","High-Voltage Charge (Plus Ultra)
+Inflict 400% to one enemy; low chance to Paralyze enemy for 1 turn","Human Stun Gun
+(CD: 4 turns)
+Inflict 225% to one enemy; low chance to Paralyze enemy for 1 turn; high chance to gain Confusion for 2 turns","Discharge
+(CD: 4 turns)
+Fill PU Gauge by 40%","Charge Up
+While HP is Above 50%, +25% ATK","Electrified Physique
+While HP is Above 50%, +30% Skill Damage","U.A. Student
+1-A Student
+Hero
+Male","HP - 20,33
+ATK - 4,063
+SPD - 244
+Crit Rate - 10",Confuse: Chance to attack someone that isn't targetted or self
+,"Destruction (DST)
+[Training] 
+Denki Kaminari","Human Stun Gun (Plus Ultra)
+Inflict 450% damage to one enemy; low chance to Paralyze enemy for 1 turn; high chance to gain Confusion for 2 turns","High-Voltage Discharge
+(CD: 4 turns)
+Inflict 200% to one enemy; low chance to Paralyze enemy for 1 turn","Recharge
+(CD: 5 turns)
++30% ATK for 3 turns; +30% Crit Rate for 3 turns ","In Good Health
+While HP is Above 50%, +20% Crit Rate","Goofball Dudes
+At start of each WAVE, enemy -20% SPD for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 18,564
+ATK - 4,461
+SPD - 234
+Crit Rate - 10",Confuse: Chance to attack someone that isn't targetted or self
+,"Skill (ABL)
+[At School] 
+Kyoka Jirou","Stereo Speaker (Plus Ultra)
+Inflict 400% damage to one enemy; enemy -30% Crit Rate for 3 turns","Earphone Jack
+(CD: 3 turns)
+Inflict 200% damage to one enemy; enemy -20% SPD for 3 turns","Deafening Roar
+(CD: 5 turns)
+Enemy -25% Crit Rate for 3 turns; enemy -20% Skill Damage for 3 turns ","Cool
+At start of each WAVE, enemy -20% Crit Rate for 3 turns","Search for the Enemy
+At start of each WAVE, enemy -20% SPD for 3 turns","U.A. Student
+1-A Student
+Hero
+Female","HP - 19,736
+ATK - 4,154
+SPD - 239
+Crit Rate - 10",N/A
+,"Faith (MND) 
+[Training] 
+Kyoka Jirou","Earphone Jack (Plus Ultra)
+Inflict 400% damage to one enemy; low chance to Confuse the enemy for 2 turns","Stereo Speakers
+(CD: 5 turns)
+Inflict 175% damage to all enemies; low chance to Confuse enemies for 2 turns ","R&B
+(CD: 4 turns)
+Heal 25% HP for one ally; one ally +20% Crit Rate for 3 turns","Soul of Rock
+At the start of the battle; fill PU Gauge by 20%","Dissonance
+At start of each WAVE, enemy -20% ATK for 3 turns","U.A. Student
+1-A Student
+Hero
+Female","HP - 18,586
+ATK - 4,434
+SPD - 234
+Crit Rate - 10",Confuse: Chance to attack someone that isn't targetted or self
+,"Destruction (DST)
+[At School] 
+Amajiki Tamaki","Kraken Blow (Plus Ultra)
+Inflict 400% damage; low chance to Restraint enemy for 1 turn","Clam Fist
+(CD: 4 turns)
+Inflict 200% damage to one enemy; +20% Damage Cut for 2 turns","Picking and Choosing
+(CD: 4 turns)
++25% Crit Rate for 3 turns; +25% Skill Damage for 3 turns","Quiet but Powerful
+While HP is Above 50%, +20% Crit Rate","As Good as Any Pro
+While HP is Above 50%; +30% Skill Damage","U.A. Student
+Hero
+Big 3
+Male","HP - 20,503
+ATK - 4,078
+SPD - 244
+Crit Rate - 10","Restraint: Prevents unit from attacking
+
+Damage Cut: Reduce damage taken"
+,"Power (STR)
+[At School] 
+Mirio Togata","Phantom Uppercut (Plus Ultra)
+Inflict 400% damage to one enemy; gain Evasion for 2 hits ","Banishing Blow
+(CD: 3 turns)
+Inflict 200% damage to one enemy; low chance to Confuse enemy For 2 turns","Instant Transportation 
+(CD: 4 turns)
+Taunt enemies for 2 turns; +30% SPD for 3 turns","Phantom
+At the start of the battle; gain Evasion for 1 hit;
+at start of each WAVE, +20% Crit Rate for 3 turns","Humorus
+While HP is Below 50%, +25% ATK and gain Evasion for 1 hit (once only)","U.A. Student
+Hero
+Big 3
+Male","HP -  18,740
+ATK - 4,494
+SPD - 236
+Crit Rate - 10","Confuse: Chance to attack someone that isn't targetted or self
+
+Evasion: Damage taken is reduced to 0
+
+Taunt: Forces all enemies to target you"
+,"Knowledge (INT)
+[Training] 
+Hitoshi Shinso","Brainwashing (Plus Ultra)
+Inflict 350% damage to one enemy; low chance to Confuse enemy for 2 turns","Tenacity
+(CD: 4 turns)
+Enemy -30% Crit Rate for 3 turns","Heroic Aspiration
+(CD: 4 turns)
+Fill PU Gauge by 40%","Kill at First Sight
+At start of each WAVE, enemy -20% Crit Rate for 3 turns","The Star of General Studies
+At the start of the battle; if there is a 1-A Student unit on the team; fill PU Gauge by 20%","U.A. Student
+Hero
+Male","HP - 19,543
+ATK - 4,101
+SPD - 239
+Crit Rate - 10",Confuse: Chance to attack someone that isn't targetted or self

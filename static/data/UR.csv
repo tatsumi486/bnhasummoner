@@ -1,0 +1,811 @@
+Unit Art,Unit Name,Plus Ultra,Action Skill 1,Action Skill 2,Auto Skill 1,Auto Skill 2,Tags,Stats
+,"Power (STR)
+[Lucky Strike] 
+Izuku Midoriya","One For All: Full Cowl
+
+Inflict 750% damage to one enemy; Gain Reverse for 3 turns; Inflict self damage","Delaware Smash 
+
+Inflict 400% damage to one enemy; +40% ATK for 3 turns; Inflict self damage
+(5 Turn CD)","Full Cowl  
+
++50% ATK & SPD for 3 turns
+(4 Turn CD)","Confronting Resolve
+
++40% Skill Damage for 3 turns if character deals Crit Damage; While HP is below 50%, Auto-Heal 20% HP for 3 turns (Once only)","Passing The Torch
+
+While HP is below 50%, +35% Crit Rate","U.A. Student
+1-A Student
+Hero
+Male","HP - 25,815
+ATK - 6,409
+SPD - 409
+Crit Rate - 10"
+,"Faith (MND)
+[My Own Skill] 
+Izuku Midoriya","Full Cowl: Shoot Style
+
+Inflict 600% damage to one enemy; +XX% Skill Damage relative to SPD","Full Cowl 
+
+Fill PU Gauge by 30%; +50% SPD for 3 turns
+(4 Turn CD)","Detroit Smash 
+
+Inflict 400% damage to one enemy; +40% ATK for 3 turns; Inflict self damage
+(5 Turn CD)","Aiming For The Best
+
+While HP is below 50%; Fill PU gauge by 50%","Demanding Strength
+
+While HP is Above 50%; +30% Crit Rate","U.A. Student
+1-A Student
+Hero
+Male","HP - 25,246
+ATK - 6,515
+SPD - 414
+Crit Rate - 10"
+,"Skill (ABL)
+[Living Up To Expectations] 
+Izuku Midoriya","Delaware Smash: Air Force
+
+Inflict 700% damage to one enemy; Enemy -35% Crit Rate for 3 turns","Delaware Smash 
+
+Inflict 350% damage to one enemy; Enemy -30% SPD for 3 turns
+(4 Turn CD)","Detroit Smash 
+
+Inflict 350% damage to one enemy; +50% Skill Damage if enemy has SPD DOWN
+(5 Turn CD)","Limitless Vitality 
+
+While HP is Above 50%; +50% Skill Damage","Because I Care!
+
+While HP is below 50%; Gain Evasion for 3 attacks; +40% SPD","U.A. Student
+1-A Student
+Hero
+Male","HP - 27,950
+ATK - 5,903
+SPD - 429
+Crit Rate 10"
+,"Destruction (DST)
+[World Heroes]
+Izuku Midoriya
+
+Limited","Delaware Detroit Smash
+
+Inflict 700% damage to one enemy, +40% Skill Damage if enemy is a Villain","Detroit Smash
+
+Inflict 300% damage to one enemy; +XX% Skill Damage relative to SPD
+(4 Turn CD)","Delaware Smash
+
+Inflict 500% damage to one enemy; +30% SPD for 3 turns; Fill PU Gauge by 20%
+(5 Turn CD)","Humble Beginnings
+
+While HP is below 50%, +40% ATK; Gain Grit (Once only)","Follow Your Heart
+
+Fill PU Gauge by 30%; At the start of each WAVE, +30% Crit Rate for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 26,602
+ATK - 6,166
+SPD - 419
+Crit Rate - 10"
+,"Knowledge (INT)
+[Unyielding Feelings] 
+Midoriya Izuku","Virginia Smash
+
+Inflict 650% damage to one enemy; Gain 2 stacks of Grit ","Detroit Smash 
+
+Inflict 350% damage to one enemy; +20% Skill Damage for 3 turns if used in a Skill CHAIN
+(5 Turn CD)","Giving My All
+
++40% PU Skill Damage for 3 turns; Fill PU Gauge by 40%
+(5 Turn CD)  ","Proven Tactics
+
+While HP is below 50%; +35% ATK, +20% SPD","Come at me with your full Power (STR)!
+
+While HP is below 30%; +45% Skill Damage; Gain 3 stacks of Grit (Once only)","U.A. Student
+1-A Student
+Hero
+Male","HP - 25,288
+ATK - 6,505
+SPD - 414
+Crit Rate 10"
+,"Skill (ABL)
+[I'm The Best] 
+Katsuki Bakugo","Howitzer Impact
+
+Inflict 600% damage to one enemy; +40% Skill Damage if enemy is Burned","A.P Shot 
+
+Inflict 300% damage to one enemy; Medium chance to Burn enemy for 3 turns; Enemy -15% DEF for 3 turns if used in a Skill CHAIN
+(4 Turn CD)","Stun Grenade  
+
+Inflict 175% damage to all enemies; Medium chance to Blind enemies for 3 turns
+(6 Turn CD)","KING EXPLOSION MURDER
+
++5% ATK when dealing the final blow to an enemy; While HP is Above 50%; +25% ATK","Explosive Sweat
+
++3% ATK every turn (up to 30%); While HP is Above 50%; +25% SPD","U.A. Student
+1-A Student
+Hero
+Male","HP - 24,667
+ATK - 6,580
+SPD - 424
+Crit Rate - 10"
+,"Destruction (DST)
+[Merciless Assault]
+Katsuki Bakugo","Berserk Blast
+
+Inflict 650% damage to one enemy; Enemy -30% DEF for 3 turns","Explosive Turbo
+
+Inflict 350% damage to one enemy; Fill PU Gauge by 30%
+(4 Turn CD)","Stun Grenade
+
+Inflict 200% damage to all enemies; Low chance to Blind enemies for 2 turns; Enemies -15% DEF for 2 turns
+(5 Turn CD)","It's gotten cold dammit!
+
++5% Skill Damage every turn (up to 40%); On Turn 10, fill PU Gauge by 50% (Once only)","Absolute Victory
+
+At the start of each WAVE, gain Heavy for 3 attacks; While HP is Above 50%, +30% SPD","U.A. Student
+1-A Student
+Hero
+Male","HP - 27,545
+ATK - 5,951
+SPD - 429
+Crit Rate 10"
+,"Power (STR)
+[World Heroes]
+Katsuki Bakugo
+
+Limited","A.P. Shot Auto Cannon
+
+Inflict 700% damage to one enemy; +40% Skill Damage if enemy has Crit Rate DOWN","Explosive Turbo
+
+Inflict 350% damage to one enemy; +50% Skill Damage for 3 turns
+(5 Turn CD)","A.P. Shot
+
+Inflict 350% damage to one enemy; Low chance to Burn enemy for 3 turns; Enemy -20% Crit Rate for 3 turns if used in a Skill CHAIN
+(4 Turn CD)","Surpassing No 1
+
+Fill PU Gauge by 30%; While HP is Above 50%, +30% SPD","Explosive Sweat
+
+While HP is below 50%, +40% ATK; At the start of each WAVE, enemy -20% ATK for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 25,330
+ATK - 6,456
+SPD - 418
+Crit Rate 10"
+,"Faith (MND)
+[Explosive Advance]
+Bakugo Katsuki","X-Catapult
+
+Inflict 700% damage to one enemy; +20% Skill Damage if character uses this Skill without SPD DOWN","Explosive Turbo
+
+Inflict 350% damage to one enemy; +30% SPD for 3 turns
+(4 Turn CD)","Thirst for Victory
+
+All allies +20% Crit Rate for 3 turns; Fill PU Gauge by 30% if used in a Skill CHAIN
+(5 Turn CD)","Overwhelming Mobility
+
++25% ATK; +15% Skill Damage while SPD UP is active on character","Unchanging Ideals
+
++5% Skill Damage every turn (up to 40%); +25% PU Skill Damage while character has no SPD DOWN active","U.A. Student
+1-A Student
+Hero
+Male","HP - 24,751
+ATK - 6,561
+SPD - 424
+Crit Rate - 10"
+,"Knowledge (INT)
+[End Of Conflict] 
+Shoto Todoroki","Flashfreeze Heatwave
+
+Inflict 650% damage to one enemy; Medium chance to Freeze enemy for 1 turn, Medium chance to Burn enemy for 3 turns","Ice Wall 
+
+Inflict 225% damage to all enemies; Medium chance to Freeze enemies for 1 turn; +30% ATK for 3 turns if used in a Skill CHAIN
+(4 Turn CD)","Flame Dance 
+
+Inflict 225% damage to all enemies; Medium chance to Burn enemies for 3 turns; Fill PU Gauge by 30%
+(5 Turn CD)","I want to be a hero too!
+
+While HP is Above 50%; Fill PU Gauge by 35% (Once only)","Below Freezing
+
+While HP is below 50%; +40% ATK; While HP is below 30%; Freeze enemies after recieving an attack","U.A. Student
+1-A Student
+Hero
+Male","HP - 25,991
+ATK - 6,328
+SPD - 413
+Crit Rate 10"
+,"Faith (MND)
+[Built Up Flames]
+Shoto Todoroki","Icicle Shot
+
+Inflict 650% damage to one enemy; Medium chance to Burn enemy for 3 turns; +30% Crit Rate for 3 turns","Flame Dance
+
+Inflict 225% damage to all enemies; Low chance to Burn enemies for 3 turns; All allies gain Burn Resistance for 3 turns
+(5 Turn CD)","Ice-Heat Wave
+
+Inflict 350% damage to one enemy, Medium chance to Burn enemy for 3 turns; High chance to Burn enemy for 3 turns if used in a Skill CHAIN
+(5 Turn CD)","Oncoming Flames
+
++3% ATK every turn (up to 30%); While HP is Above 50%, +20% Crit Rate","Hidden Passion
+
+While HP is below 50%, +40% ATK; Gain Aura for 3 turns","U.A. Student
+1-A Student
+Hero
+Male","HP - 25,246
+ATK - 6,472
+SPD - 418
+Crit Rate - 10"
+,"Skill (ABL)
+[World Heroes]
+Shoto Todoroki
+
+Limited","Heaven-Piercing Ice Wall
+
+Inflict 600% damage to one enemy; High chance to Freeze enemy for 1 turn; Medium chance to Bind enemy for 1 turn","Flame Dance
+
+Inflict 225% damage to all enemies; Low chance to Burn enemies for 3 turns; All allies +30% Skill Damage for 3 turns
+(5 Turn CD)","Ice Wall
+
+Inflict 300% damage to one enemy; Medium chance to Freeze enemy for 1 turn; All allies gain 30% Damage Cut for 2 turns if used in a Skill CHAIN
+(5 Turn CD)","Set Yourself Ablaze
+
+At the start of each WAVE, all allies gain Burn Resistance for 3 turns. At the start of each WAVE,+40% ATK for 3 turns","I came here on my own will
+
++40% ATK if team has a Pro Hero character","U.A. Student
+1-A Student
+Hero
+Male","HP - 27,253
+ATK - 5,999
+SPD - 429
+Crit Rate 10"
+,"Destruction (DST)
+[According To My Will]
+Shoto Todoroki ","Ice Binding Flame Fist
+
+Inflict 700% damage to one enemy; +40% Skill Damage if character deals Crit Damage; Low chance to Burn enemy for 3 turns","Ice cluster
+
+Inflict 350% damage to one enemy; +30% Crit Rate for 3 turns if used in a Skill CHAIN; Medium chance to Freeze enemy for 1 turn
+(5 Turn CD)","Focused release
+
++20% Crit Rate for 3 turns; Fill PU Gauge by 40%
+(6 Turn CD)","Aiming for greater heights
+
++20% ATK for 3 turns if character deals Crit Damage; +10% SPD for 3 turns","To become what I want to be
+
+Fill PU Gauge by 30%; While HP is below 50%, +30% Crit Damage","U.A. Student
+1-A Student
+Hero
+Male","HP - 26,602
+ATK - 6,125
+SPD - 424
+Crit Rate - 10"
+,"Power (STR)
+[Fire and Ice]
+Shoto Todoroki","Dance of Fire and Ice
+
+Inflict 650% damage to one enemy; Enemy -30% DEF if they have Frostbite; +40% Skill Damage if they are Burning","Ice Block
+
+Inflict 225% damage to all enemies; Low chance of applying Frostbite to enemies for 3 turns; Fill PU Gauge by 30%
+(5 Turn CD)","Icy Heatwave
+
+Inflict 350% damage to one enemie; Medium chance of Burning enemy for 3 turns; Medium chance of applying Frostbite to enemy for 3 turns if used last in a Skill CHAIN
+(5 Turn CD)","Seeing the Big Picture
+
+Enemy -15% SPD for 3 turns; While HP is Above 50%, +40% Skill Damage","Moving Forward
+
+While HP is below 50%, fill PU Gauge by 50% & reduce character Action Skill Cooldown by 3 (Once only)","U.A. Student
+1-A Student
+Hero
+Male","HP - 26,510
+ATK - 6,144
+SPD - 424
+Crit Rate 10"
+,"Skill (ABL)
+[Always Looking Ahead] 
+Momo Yaoyorozu","Matryoshka Cannon
+
+Inflict 650% damage to one enemy; Fill all allies PU Gauge by 20%","First Aid 
+
+Cleanse 1 status ailment from all allies; All allies recover 35% HP
+(6 Turn CD)","Matryoshka Dolls  
+
+Inflict 225% damage to all enemies; Enemies -15% SPD for 3 turns","Special Operation
+
+Skill (ABL) allies +25% ATK ","Full Force
+
+Prevent all allies from getting status ailments one time (Once only); While HP is below 50%, fill PU Gauge by 40% (Once only)","U.A. Student
+1-A Student
+Hero
+Female","HP - 27,253
+ATK - 5,879
+SPD - 424
+Crit Rate 10"
+,"Knowledge (INT)
+[In My Field] 
+Ochaco Uraraka","Weightless Boulder Drop
+
+Inflict 650% damage to one enemy; all allies +20% Crit Rate for 3 turns","All The Support You Need
+
+All allies recover 30% HP; All allies gain Evasion for one attack
+(7 Turn CD)","Gunhead Martial Arts 
+
+Nullify all Normal Attacks recieved for 3 turns; Gain Counter for 3 turns; +35% ATK for 3 turns
+(6 Turn CD)","Strong Potential
+
+Knowledge (INT) allies +25% ATK","Zero Gravity
+
++40% SPD while Evasion is active on character","U.A. Student
+1-A Student
+Hero
+Female","HP - 27,397
+ATK - 5,856
+SPD - 424
+Crit Rate 10"
+,"Power (STR)
+[Strength To Never Fall] 
+Eijiro Kirishima","Red Gauntlet
+
+Inflict 650% damage to one enemy; Gain Barrier for 3 turns","Red Counter 
+
+Gain Counter for 3 turns; Gain 40% Damage Cut for 2 turns
+(5 Turn CD)","Red Knuckle 
+
+Inflict 350% damage to one enemy; Gain 40% Damage Cut for 1 turn; Taunt enemies for 3 turns
+(5 Turn CD)","Sturdy Hero
+
+Power (STR) allies +25% ATK","Red Impulse
+
+Fill PU Gauge by 15% when receiving Crit Damage","U.A. Student
+1-A Student
+Hero
+Male","HP - 26,510
+ATK - 6,060
+SPD - 419
+Crit Rate - 10"
+,"Skill (ABL)
+[Courage Befitting A Hero]
+Eijiro Kirishima","Red Riot: Unbreakable
+
+Inflict 650% damage to one enemy; +20% DEF; Gain Grit","Tenacious Blade
+
+Inflict 300% damage to one enemy; Taunt enemies for 3 turns; Gain Barrier for 2 attacks
+(5 Turn CD)","Red Counter
+
+Gain Counter for 3 turns; Gain Barrier for 2 attacks; +30% Skill Damage for 3 turns
+(5 Turn CD)","Abandoning My Pathetic Past
+
++5% Skill Damage (up to 50%) when receiving Crit Damage; While HP is below 50%, +35% Skill Damage","Endure, Protect, Have Faith (MND)
+
+Skill (ABL) allies +25% Max HP ","U.A. Student
+1-A Student
+Hero
+Male","HP - 26,556
+ATK - 6,051
+SPD - 419
+Crit Rate - 10"
+,"Skill (ABL)
+[Mixed In Color]
+Tsuyu Asui","Froppy Spiral
+
+Inflict 700% damage to one enemy; Medium chance to Confuse enemy for 2 turns; Enemy -30% SPD for 3 turns","Froppy Kick 
+
+Inflict 350% damage to one enemy; Enemy -25% Crit Rate & -15% DEF for 3 turns if used in a Skill CHAIN
+(4 Turn CD)","Camouflage 
+
+Camouflage for 3 turns; All allies +20% Crit Rate for 3 turns
+(5 Turn CD)","Moral Support
+
+Fill Skill (ABL) allies PU Gauge by 30%","Strong Legs
+
++35% Crit Rate while Camouflage is active on character","U.A. Student
+1-A Student
+Hero
+Female","HP - 25,162
+ATK - 6,359
+SPD - 418
+Crit Rate - 15"
+,"Faith (MND)
+[Burdened by the Abyss]
+Fumikage Tokoyami","Black Fallen Angel
+
+Inflict 650% damage to one enemy; Enemy -20% Crit Rate for 3 turns; Enemy -20% Skill Damage for 3 turns","Claws from the Abyss
+
+Inflict 350% damage to one enemy; Enemy -25% DEF for 3 turns
+(4 Turn CD)","Abyss Dweller 
+
++30% ATK for 3 turns; Gain Double Tap for 3 turns
+(5 Turn CD)","Dark Lullaby
+
++15% ATK & +20% SPD while Double Tap is activate","Jet Black Wings
+
+At the start of each WAVE, +10% SPD for 3 turns & gain Double Tap for 3 turns; +20% ATK while SPD UP is active on character","U.A. Student
+1-A Student
+Hero
+Male","HP - 26,648
+ATK - 6,034
+SPD - 429
+Crit Rate - 10"
+,"Destruction (DST)
+[Diffused Lightning]
+Denki Kaminari","Indiscriminate Shock 1.3 Million Volts
+
+Inflict 600% damage to all enemies; Inflict 130% damage to all allies (excluding character)  While HP is Above 80%, +40% Skill Damage; While HP is below 80%, raise chances to Paralyze; Medium chance to Paralyze enemies and allies for 1 turn, Low chance to Paralyze enemies and allies for 2 turns","Human Stungun 
+
+Inflict 310% damage to one enemy; While HP is Above 80%, +50% Skill Damage; While HP is below 80%, raise chances to Paralyze; Medium chance to Paralyze one enemy for 1 turn
+(4 Turn CD)","Thunderclap
+
+While HP is Above 80% or more, fill PU Gauge by +30%; While HP is below 80%, Auto-Heal 20% HP for 3 turns; Gain Heavy for 3 turns
+(5 Turn CD)","Electric
+
+Starting from the 5th turn, +40% PU Skill Damage; -20% DEF while Confusion is active on character","Excess Electricity
+
+While HP is below 30%, Paralyze enemy that attacks this character for 1 turn; Starting from the 5th turn, fill PU Gauge by +60%","U.A. Student
+1-A Student
+Hero
+Male","HP - 25,903
+ATK - 6,262
+SPD - 409
+Crit Rate - 10"
+,"Knowledge (INT)
+[Weaponized Voice]
+Hitoshi Shinso","Persona Chords
+
+Inflict 700% damage to one enemy; High chance to Confuse enemy for 2 turns","Binding Cloth
+
+Inflict 350% damage to one enemy; Low chance to Bind enemy; Enemy -20% Skill Damage for 3 turns if used in a Skill CHAIN
+(4 Turn CD)","Brainwash
+
+Cleanse one buff from one enemy; Enemy -30% DEF for 3 turns; Enemy -30% SPD for 3 turns
+(4 Turn CD)","Get past any obstacle
+
+While HP is below 50% or less, gain Reverse for 3 turns; Fill PU Gauge by 50% (Once only)","Hero Department Underdog
+
+At the start of each WAVE, gain Aura for 3 turns; Enemy -30% Crit Rate for 3 turns","U.A. Student
+Hero
+Male","HP - 26,215
+ATK - 5,905
+SPD - 419
+Crit Rate 10"
+,"Faith (MND)
+[I'll Save Millions!] 
+Togata Mirio","Phantom Menace
+
+Inflict 650% damage to one enemy; Enemy -20% ATK for 3 turns; Gain Evasion for 1 attack","Phantom Uppercut
+
+Inflict 350% damage to one enemy; Low chance to Confuse enemy for 2 turns; Enemy -25% ATK for 3 turns if used in a Skill CHAIN
+(4 Turn CD)","Vanishing Blow
+
+Inflict 350% damage to one enemy; Taunt enemies for 2 turns; Gain Evasion for 2 attacks
+(5 Turn CD)","Man Closest to No° 1
+
+While HP is below 50%, gain Evasion for 1 attack (Once only); While HP is below 50%, +60% Skill Damage for 3 turns (Once only)","Unshakable Spirit
+
++35% Crit Rate while Evasion is active on character","U.A. Student
+Hero
+Big 3
+Male","HP - 28,565
+ATK - 5,810
+SPD - 440
+Crit Rate 10"
+,"Knowledge (INT)
+[Wild Curiousity]
+Nejire Hado","Ultra Nejire Wave
+
+Inflict 600% damage to one enemy; Fill all allies PU Gauge by 20% (excluding character)","Fantastic Sky Dance
+
+Recover 25% HP for one ally, +30% ATK for 3 turns for targeted ally; Recover 25% HP for all allies
+(6 Turn CD)","Power (STR) Wave
+
+Inflict 250% damage to all enemies; Enemies -25% ATK for 3 turns; Fill all allies PU Gauge by 15%
+(4 Turn CD)","Unintentionally Meddlesome
+
+Fill all U.A. Student allies PU Gauge by 25%","Hey Hey
+
+At the start of each WAVE, Auto-Heal 20% HP for all allies for 3 turns; While HP is below 50%; Gain Grit","U.A. Student
+Hero
+Big 3
+Female","HP - 28,100
+ATK - 5,876
+SPD - 429
+Crit Rate - 10"
+,"Faith (MND)
+[Phantasmagoric] 
+Tamaki Amajiki","Vast Hybrid Chimera Kraken!
+
+Inflict 650% damage to one enemy; High chance to Bind enemy for 1 turn","Chicken Shoot
+
+Inflict 350% damage to one enemy; Enemy -30% SPD for 3 turns; Taunt enemies for 2 turns
+(4 Turn CD)","Kraken Blow
+
+Inflict 300% damage to one enemy; Medium chance to Bind enemy for 1 turn; Enemy -25% DEF
+(4 Turn CD)","Earnest Effort
+
+Faith (MND) allies +25% ATK","Applicable Talent
+
+All allies +15% ATK & +25% SPD while Taunt is active on character","U.A. Student
+Hero
+Big 3
+Male","HP - 26,173
+ATK - 6,296
+SPD - 409
+Crit Rate 10"
+,"Faith (MND)
+[Living In The Moment] 
+Shota Aizawa","Capture Combo
+
+Inflict 550% damage to one enemy; Medium chance to Skill Seal enemy for 2 turns; Cleanse all buffs on enemy","Binding Kick 
+
+Inflict 300% damage to one enemy; Cleanse one buff on enemy
+(5 Turn CD)","Capture Cloth 
+
+Inflict 300% damage to one enemy; Medium chance to Skill Seal enemy for 2 turns if used in a Skill CHAIN
+(6 Turn CD)","No good hero is a one trick pony
+
+Pro Hero allies +20% ATK","Tough Fight
+
+While HP is Above 50% or more, +30% SPD","U.A. Teacher
+Hero
+Pro Hero
+Male","HP - 27,349
+ATK - 5,864
+SPD - 429
+Crit Rate - 15"
+,"Destruction (DST)
+[Void Piercing Gaze] 
+Shota Aizawa","Manipulation Bang
+
+Inflict 650% damage to one enemy; +40% Skill Damage if enemy has Skill Damage DOWN; Cleanse 2 buffs on enemy","Capture Cloth
+
+Inflict 350% damage to one enemy; Medium chance to Bind enemy for 1 turn if used in a Skill CHAIN
+(5 Turn CD)","Erasure
+
+Enemy -25% SPD & Skill Damage 3 turns; Cleanse 2 buffs on enemy
+(4 Turn CD)","Find a weakness
+
++40% Skill Damage for 3 turns when dealing Critical Damage; At the start of each WAVE, Enemy -25% Crit Rate for 3 turns","Be rational
+
+While HP is Above 50% or more, +25% Crit Rate; 1-A Student allies +15% Crit Rate","U.A. Teacher
+Hero
+Pro Hero
+Male","HP - 25,903
+ATK - 6,220
+SPD - 413
+Crit Rate - 15"
+,"Faith (MND)
+[Symbol of Peace] 
+All Might","DETROIT SMASH
+
+Inflict 650% damage to one enemy; All allies gain Aura for 3 turns","TEXAS SMASH 
+
+Inflict 350% damage to one enemy; +40% Skill Damage to League of Villains enemies
+(4 Turn CD)","Number 1 Hero  
+
+Fill PU Gauge by 80%
+(7 Turn CD)","The People's Hope
+
+While HP is Above 50%, +30% ATK; -3% ATK & SPD every turn (up to 30%)","Courageous Heart
+
+While HP is below 50%, +40% ATK for 3 turns; Gain Grit (Once only)","U.A. Teacher
+Hero
+Pro Hero
+Male","HP - 25,111
+ATK - 6,602
+SPD - 442
+Crit Rate 10"
+,"Power (STR)
+[Crush Despair!!]
+All Might","LOUISIANA SMASH
+
+Inflict 700% damage to one enemy; +20% Skill Damage if enemy is a Villain; +20% Action Skill Damage for all allies for 3 turns","TEXAS SMASH 
+
+Inflict 350% damage to one enemy; +30% Skill Damage if enemy has Crit Rate DOWN; +20% Skill Damage if enemy has ATK DOWN
+(4 Turn CD)","OKLAHOMA SMASH
+
+Inflict 350% damage to one enemy; +30% Skill Damage if enemy has SPD DOWN; +20% Skill Damage if enemy has Skill Damage DOWN
+(4 Turn CD)","Symbol of Peace
+At the start of each WAVE, gain Heavy for 3 turns; Fill PU Gauge by 30% (Once only)","I'll Give It My All!
+While HP is below 50% or less, gain Reverse; Fill PU Gauge by 40% (Once only); Cleanse the first debuff any ally gains","U.A. Teacher
+Hero
+Pro Hero
+Male","HP - 25,225
+ATK - 6,775
+SPD - 449
+Crit Rate - 10"
+,"Knowledge (INT)
+[Strong Gales] 
+Hawks","Fierce Wings: Turbulence
+
+Inflict 650% damage to one enemy; +40% Skill Damage if enemy has SPD DOWN; Gain Evasion for 1 turn","Fierce Wings: Buckshot
+
+Inflict 225% damage to all enemies; All allies +15% SPD for 3 turns
+(4 Turn CD)","Fierce Wings: Blades
+
+Inflict 375% damage to one enemy; One ally gains Double Tap for 2 turns
+(4 Turn CD)","The Man With Unrivaled Speed
+
+At start of battle, all allies gain Evasion for 1 attack; While HP is Above 50%; +25% SPD","My Way
+
++35% ATK while Evasion is active on character","Hero
+Pro Hero
+Male","HP - 27,397
+ATK - 5,895
+SPD - 455
+Crit Rate - 15"
+,"Skill (ABL)
+[The Fastest Advance]
+Hawks","Fierce Wings: Slash Burst
+
+Inflict 550% damage to one enemy; +XX% Skill Damage relative to SPD","Fierce Wings: Blades
+
+Inflict 150% damage to one enemy; +XX% Skill Damage relative to SPD
+(3 Turn CD)","Fierce Wings: Pursuit 
+
+Inflict 350% damage to one enemy; +40% Skill Damage for 3 turns if used in a Skill CHAIN
+(3 Turn CD)","Secret Intelligence
+
+Prevent character from getting status ailments 2 times; +30% Crit Damage if SPD UP is active on character","Godspeed Wings
+
++45% Skill Damage while SPD UP is active on character; -15% DEF while SPD DOWN is active on character, ","Hero
+Pro Hero
+Male","HP - 24,465
+ATK - 6,534
+SPD - 449
+Crit Rate - 15"
+,"Power (STR)
+[Rising Heat]
+Endeavor","PLUS ULTRA Prominence Burn
+
+Inflict 650% damage to one enemy, High chance to Burn enemy for 3 turns, Gain Grit","Flashfire Fist: Hell Spider
+
+Inflict 225% damage to all enemies; Low chance to Burn enemies for 3 turns; Enemies -10% SPD for 3 turns
+(6 Turn CD)","Flame Knuckles
+
+Inflict 350% damage to one enemy; +40% Skill Damage if enemy has SPD DOWN active; Low chance to Burn enemy for 3 turns
+(4 Turn CD)","A Fresh Start
+
+Fill PU Gauge by 30%; At the start of each WAVE, +40% ATK for 3 turns","Seeking Greater Strength
+
+While HP is below 50%, gain Reverse for 3 turns & +30% ATK","Hero
+Pro Hero
+Male","HP - 25,120
+ATK - 6,590
+SPD - 428
+Crit Rate - 10"
+,"Destruction (DST)
+[Evil Ruler] 
+All For One","Hero Breaker
+
+Inflict 600% damage to one enemy; Reduce character Action Skill Cooldown by 5","Black Claws
+
+Inflict 300% damage to one enemy; Reduce ally Action Skill Cooldown by 1
+(5 Turn CD)","Air Cannon 
+
+Inflict 175% damage to all enemies; Enemies -25% Skill Damage for 3 turns
+(6 Turn CD)","Charismatic
+
+League of Villain allies +15% Crit Rate; While HP is Above 50%, +25% ATK","Embodiment of Pure Evil
+
+While HP is below 50%, +50% Skill Damage","League of Villains
+Villain
+Male","HP - 24,347
+ATK - 6,613
+SPD - 404
+Crit Rate - 10"
+,"Skill (ABL)
+[My Target] 
+Himiko Toga","Knife Dance
+
+Inflict 600% damage to one enemy; High chance to make enemy Bleed for 3 turns","I'll stab you!
+
+Inflict 350% damage to one enemy; Medium chance to apply Bleed for 3 turns; Fill PU Gauge by 20% if enemy has Bleed active
+(4 Turn CD)","I'll get serious
+
+Fill PU Gauge by 50%, +20% Crit Rate
+(6 Turn CD)","Stain Kinnie
+
+Fill PU Gauge by 30%; At the start of each WAVE, +50% Skill Damage","Blood Crazed Girl
+
+While HP is below 50% or less, gain Aura for 3 turns; +50% Skill Damage","League of Villains
+Villain
+Female","HP - 25,859
+ATK - 6,228
+SPD - 413
+Crit Rate - 15"
+,"Knowledge (INT)
+[Bloodstained Love]
+Himiko Toga","To Be More Like You
+
+Inflict 650% damage to one enemy; +15% Crit Rate for 3 turns; Gain Evasion for 1 attack","Suck Suck! 
+
+Inflict 300% damage to one enemy; Low chance to apply Bleed for 3 turns, Medium chance if used in a Skill CHAIN
+(5 Turn CD)","Let Me Stab You! 
+
+Inflict 350% damage to one enemy; +50% Skill Damage if the enemy is a 1-A Student; Low chance to apply Bleed for 3 turns
+(4 Turn CD)","Kill What I Don't Like
+
+While HP is below 50% or less, +20% Skill Damage; +30% SPD while Evasion is active on character","Live Freely
+
++40% Skill Damage if team has a 1-A Student character; While HP is Above 50%, +20% ATK","League of Villains
+Villain
+Female","HP - 25,288
+ATK - 6,333
+SPD - 418
+Crit Rate - 15"
+,"Destruction (DST)
+[Endless Malice] 
+Tomura Shigaraki","Vacuum Collapse
+
+Inflict 700% damage to one enemy; +50% Skill Damage if enemy is a Pro Hero","Collapse
+
+Inflict 350% damage to one enemy; Medium chance to apply Fear if enemy is a Pro Hero
+(4 Turn CD) ","Necrosis
+
+Inflict 350% damage to one enemy; -30% ATK for 3 turns if enemy is a Pro Hero
+(5 Turn CD)","League of Villains Leader
+
+League of Villains allies +30% ATK","Succesor of Chaos
+
+While HP is Above 50%; +50% Skill Damage","League of Villains
+Villain
+Male","HP - 25,903
+ATK - 6,389
+SPD - 409
+Crit Rate - 10"
+,"Power (STR)
+[Rude Awakening]
+Tomura Shigaraki","Transmissible Decay
+
+Inflict 650% damage to one enemy; Inflict 200% to all enemies; Gain Grit ; Inflict self damage","Necrosis
+
+Inflict 350% damage to one enemy; Enemy -25% DEF for 3 turns
+(4 Turn CD)","Destruction (DST) Sense
+
+Fill PU Gauge by 50%; Gain Evasion for 1 turn
+(7 Turn CD)","This Is The Worst
+
+While HP is below 50%, +60% Skill Damage","All I Do Is Destroy
+
+At the start of each WAVE, gain Aura for 3 turns; While HP is Above 50%, +35% ATK ","League of Villains
+Villain
+Male","HP - 25,120
+ATK - 6,546
+SPD - 414
+Crit Rate - 10"
+,"Power (STR)
+[Corrupted Desire] 
+Overhaul","Reform the World
+
+Inflict 700% damage to one enemy; +40% Skill Damage if enemy is a Hero","Forced Disassembly
+
+Inflict 350% damage to one enemy; Medium chance to apply Fear for 2 turns; Enemy -15% DEF for 3 turns 
+(6 Turn CD)","Terrain Disassembly
+
+Inflict 225% damage to all enemies; Low chance to apply Bleed for 3 turns; Enemies -10% ATK for 3 turns
+(5 Turn CD)","Germaphobe
+
+While HP is Above 80%, +50% Skill Damage; At the start of each WAVE, Auto-Heal 20% HP for all allies for 3 turns","Destruction (DST) and Rebirth
+
+While HP is below 30%, recover 100% Max HP (Once only); While HP is below 30%, reduce character Action Skill Cooldown by 3 (Once only)","Villain
+Male","HP - 25,815
+ATK - 6,237
+SPD - 409
+Crit Rate - 10"
+,"Destruction (DST)
+[Burn Everything]
+Dabi","Sapphire Calamity
+
+Inflict 700% damage to one enemy; High chance to Burn enemy for 3 turns; High chance to Burn character for 3 turns","Blue Corruption
+
+Inflict 225% damage to all enemies; High chance to Burn enemies with Hellfire; Medium chance to Burn enemies for 3 turns; High chance to Burn character for 3 turns
+(4 Turn CD)","Blue Judgment
+
+Inflict 250% damage to all enemies; Enemies -15% ATK for 3 turns; Medium chance to Burn enemies for 3 turns; High chance to Burn character for 3 turns
+(5 Turn CD)","Arrogant Eyes
+
+Fill PU Gauge by 20%; +20% Crit Rate while Burn is active on character","Secretive
+
++40% Critical Damage while Burn is active on character; Character takes Reduced Burn damage by 70%","League of Villains
+Villain
+Male","HP - 25,204
+ATK - 6,481
+SPD - 414
+Crit Rate - 10"

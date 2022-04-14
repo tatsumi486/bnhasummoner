@@ -1,0 +1,18 @@
+EX Slot,Japanese Text,Effect
+Defensive EX Slot,最大HPがX%アップ,HP +X%
+Defensive EX Slot,ディフェンスがX%アップ,DEF +X%
+Defensive EX Slot,WAVE開始後、通常攻撃のダメージをパX%カット(Xターン) ,"At the start of each WAVE, reduce damage taken of Normal Attacks by X% (X turns)"
+Defensive EX Slot,WAVE開始後、スキルのダメージをX%カット(Xターン),"At the start of each WAVE, reduce damage taken of Action Skills by X% (X turns)"
+Defensive EX Slot,戦闘開始後、プルスウルトラ技のダメージをX%カット(1回),"At the start of the battle, reduce damage taken of Plus Ultra Skills by X% (1 hit)"
+Defensive EX Slot,WAVE開始後、HP X%自動回復(Xターン) を付与,"At the start of each WAVE, give self X% Lifesteal (X turns)"
+,,
+Assault EX Slot,"パワーがX%アップ 
+",ATK +X%
+Assault EX Slot,スピードがX%アップ,SPD +X%
+Assault EX Slot,プルスウルトラゲージ上昇量がX%アップ ,Fill Plus Ultra Gauge by +X%
+Assault EX Slot,"
+アクションスキル威力が12%アップ",Action Skill Damage +X%
+Assault EX Slot,クリティカル威力がX%アップ,Crit damage +X%
+Assault EX Slot,戦闘開始後、プルスウルトラゲージをX%アップ,"At the start of battle, fill PU Gauge by X% "
+Assault EX Slot,通常攻撃威力がX％アップ,Normal Attacks +X%
+Assault EX Slot,プルスウルトラ技の威力がX％アップ,Plus Ultra damage X%
